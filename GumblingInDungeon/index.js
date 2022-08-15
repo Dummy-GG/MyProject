@@ -18,3 +18,4 @@ function display() {
     knight.status();
 }
 
+let map = document.getElementById("map");
